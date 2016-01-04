@@ -1,0 +1,6 @@
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\bin\Debug\StateMachine.exe.config
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\obj\Debug\StateMachine.csprojResolveAssemblyReference.cache
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\obj\Debug\StateMachine.exe
+c:\users\adkar\documents\visual studio 2015\Projects\StateMachine\StateMachine\obj\Debug\StateMachine.pdb
